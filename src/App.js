@@ -24,9 +24,9 @@ export default function App() {
         <Skills />
       </FadeInSection>
 
-      <FadeInSection>
+      {/* <FadeInSection>
         <Testimonials />
-      </FadeInSection>
+      </FadeInSection> */}
 
       <FadeInSection>
         <Contact />
