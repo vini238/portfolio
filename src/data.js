@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Simple spring web app demonstrating frontend and backend capabillities as well as unit testing, integration testing, and frontend testing.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
     title: "firearm detection neural net",
