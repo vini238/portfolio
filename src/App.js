@@ -29,10 +29,6 @@ export default function App() {
       </FadeInSection> */}
 
       <FadeInSection>
-        <Contact />
-      </FadeInSection>
-
-      <FadeInSection>
         <Footer />
       </FadeInSection>
     </main>
